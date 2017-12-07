@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"   
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">  
+<mapper namespace="com.db.dao.ActicleDao">  
+
+<select id="getActicle"  resultType="com.db.model.Acticle">  
+    SELECT * FROM Acticle
+</select>  
+    
+<resultMap id="queryForActicleMap" type="com.db.model.ActicleText">
+       <id column="id" property="id" jdbcType="VARCHAR"/>  
+       <result column="title" property="title" jdbcType="VARCHAR"/>  
+       <result column="author" property="author" jdbcType="VARCHAR"/>  
+       <result column="createdate" property="createdate" jdbcType="DATE"/>       
+       <result column="text" property="text" jdbcType="VARCHAR" />  
+       <collection column="acticleComments" property="acticleComments"  ofType="com.db.model.ActicleComment">    
+          <id column="id" property="id"  jdbcType="VARCHAR"/>    
+          <result column="comment" property="comment" jdbcType="VARCHAR"/>    
+          <result column="discussname" property="discussname" jdbcType="VARCHAR"/>
+          <result column="discussdatetime" property="discussdatetime" jdbcType="DATE"/>
+          <result column="acticleid" property="acticleid" jdbcType="VARCHAR"/>
+       </collection>    
+</resultMap>
+<select id="getActicleOne"  resultMap="queryForActicleMap">  
+    SELECT a.id,a.title,a.author,a.createdate,d.text,c.comment,c.discussname,c.discussdatetime FROM acticle a, acticledetail d,acticlecomment c 
+	WHERE a.id = d.id and a.id= c.acticleid and a.id = #{id}
+</select>
+
+</mapper>

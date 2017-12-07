@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 test_vbs.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st4 {fill:#000000;font-family:宋体;font-size:0.499992em}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:Calibri;font-size:0.499992em}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:#000000;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st10 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st11 {fill:#000000;font-family:Arial Unicode MS;font-size:0.499992em;font-weight:bold}
+		.st12 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st13 {fill:#000000;font-family:宋体;font-size:0.499992em;font-weight:bold}
+		.st14 {font-family:Calibri;font-size:1em}
+		.st15 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:#000000;font-family:宋体;font-size:1.5em}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="电气" v:index="0"/>
+		<v:layer v:name="连接线" v:index="1"/>
+		<g id="group11-1" transform="translate(368.504,1224.77) rotate(180)" v:mID="11" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="标签" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052"
+						v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH1"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(带三个绕组的变压器。)"/>
+			</v:userDefs>
+			<title>三绕组变压器</title>
+			<g id="shape12-2" v:mID="12" v:groupContext="shape" v:layerMember="0">
+				<title>工作表.12</title>
+				<path d="M15.8 831.27 A8.09899 8.09899 0 0 1 12.6 831.12 A8.09899 8.09899 -180 0 0 12.15 833.79 A8.09899 8.09899
+							 -180 0 0 14.17 839.15 A8.09899 8.09899 -180 0 0 16.2 833.79 A8.09899 8.09899 -180 0 0 15.8 831.27 ZM15.8
+							 831.27 A8.09899 8.09899 -180 0 0 14.17 828.43 A8.09899 8.09899 -180 0 0 12.6 831.12 A8.09899 8.09899
+							 -180 0 0 15.8 831.27 ZM15.8 831.27 A8.09899 8.09899 0 0 1 16.2 833.79 A8.09899 8.09899 0 0 1 14.17 839.15
+							 A8.09899 8.09899 -180 0 0 28.35 833.79 A8.09899 8.09899 -180 0 0 22.22 825.94 A8.09899 8.09899 0 0 1
+							 15.8 831.27 ZM15.8 831.27 A8.09899 8.09899 -180 0 0 22.22 825.94 A8.09899 8.09899 -180 0 0 14.17 828.43
+							 A8.09899 8.09899 0 0 1 15.8 831.27 ZM22.22 825.94 A8.09899 8.09899 -180 0 0 22.68 823.26 A8.09899 8.09899
+							 -180 0 0 6.48 823.26 A8.09899 8.09899 -180 0 0 6.88 825.78 A8.09899 8.09899 0 0 1 14.17 828.43 A8.09899
+							 8.09899 0 0 1 22.22 825.94 ZM12.6 831.12 A8.09899 8.09899 0 0 1 6.88 825.78 A8.09899 8.09899 -180 0
+							 0 0 833.79 A8.09899 8.09899 -180 0 0 14.17 839.15 A8.09899 8.09899 0 0 1 12.15 833.79 A8.09899 8.09899
+							 0 0 1 12.6 831.12 ZM12.6 831.12 A8.09899 8.09899 0 0 1 14.17 828.43 A8.09899 8.09899 -180 0 0 6.88 825.78
+							 A8.09899 8.09899 -180 0 0 12.6 831.12 Z" class="st1"/>
+				<path d="M15.8 831.27 A8.09899 8.09899 0 0 1 12.6 831.12 A8.09899 8.09899 -180 0 0 12.15 833.79 A8.09899 8.09899
+							 -180 0 0 14.17 839.15 A8.09899 8.09899 -180 0 0 16.2 833.79 A8.09899 8.09899 -180 0 0 15.8 831.27"
+						class="st2"/>
+				<path d="M15.8 831.27 A8.09899 8.09899 -180 0 0 14.17 828.43 A8.09899 8.09899 -180 0 0 12.6 831.12 A8.09899 8.09899
+							 -180 0 0 15.8 831.27" class="st2"/>
+				<path d="M15.8 831.27 A8.09899 8.09899 0 0 1 16.2 833.79 A8.09899 8.09899 0 0 1 14.17 839.15 A8.09899 8.09899 -180
+							 0 0 28.35 833.79 A8.09899 8.09899 -180 0 0 22.22 825.94 A8.09899 8.09899 0 0 1 15.8 831.27"
+						class="st2"/>
+				<path d="M15.8 831.27 A8.09899 8.09899 -180 0 0 22.22 825.94 A8.09899 8.09899 -180 0 0 14.17 828.43 A8.09899 8.09899
+							 0 0 1 15.8 831.27" class="st2"/>
+				<path d="M22.22 825.94 A8.09899 8.09899 -180 0 0 22.68 823.26 A8.09899 8.09899 -180 0 0 6.48 823.26 A8.09899 8.09899
+							 -180 0 0 6.88 825.78 A8.09899 8.09899 0 0 1 14.17 828.43 A8.09899 8.09899 0 0 1 22.22 825.94"
+						class="st2"/>
+				<path d="M12.6 831.12 A8.09899 8.09899 0 0 1 6.88 825.78 A8.09899 8.09899 -180 0 0 0 833.79 A8.09899 8.09899 -180
+							 0 0 14.17 839.15 A8.09899 8.09899 0 0 1 12.15 833.79 A8.09899 8.09899 0 0 1 12.6 831.12" class="st2"/>
+				<path d="M12.6 831.12 A8.09899 8.09899 0 0 1 14.17 828.43 A8.09899 8.09899 -180 0 0 6.88 825.78 A8.09899 8.09899
+							 -180 0 0 12.6 831.12" class="st2"/>
+				<path d="M14.17 815.16 L14.17 808.48" class="st2"/>
+				<path d="M7.8 841.89 L7.8 848.57" class="st2"/>
+				<path d="M20.55 841.89 L20.55 848.57" class="st2"/>
+			</g>
+		</g>
+		<g id="group13-14" transform="translate(347.244,-280.63)" v:mID="13" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="标签" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052"
+						v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(1):26"/>
+				<v:ud v:nameU="CH"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(带可调电感的一匝绕组。右键单击指定可调变压器。)"/>
+			</v:userDefs>
+			<title>可调变压器</title>
+			<desc>35kV#1站用变</desc>
+			<g id="shape14-15" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(2.02576,-9.92126)">
+				<title>工作表.14</title>
+				<path d="M0 839.76 A7.08661 7.08661 -180 0 0 10.12 839.76 A7.08661 7.08661 -180 0 0 0 839.76 Z" class="st3"/>
+			</g>
+			<g id="shape15-17" v:mID="15" v:groupContext="shape" v:layerMember="0">
+				<title>工作表.15</title>
+				<path d="M2.03 829.84 A7.08661 7.08661 -180 0 0 0 834.8 A7.08661 7.08661 -180 0 0 14.17 834.8 A7.08661 7.08661 -180
+							 0 0 12.15 829.84 A7.08661 7.08661 0 0 1 2.03 829.84 ZM2.03 829.84 A7.08661 7.08661 0 0 1 12.15 829.84
+							 A7.08661 7.08661 -180 0 0 14.17 824.88 A7.08661 7.08661 -180 0 0 0 824.88 A7.08661 7.08661 -180 0 0
+							 2.03 829.84 Z" class="st3"/>
+			</g>
+			<g id="shape16-19" v:mID="16" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-443.822,114.76) rotate(-31.7236)">
+				<title>工作表.16</title>
+				<path d="M20.5 839.48 L20.5 841.89 L22.91 840.69 L20.5 839.48 Z" class="st1"/>
+				<path d="M20.5 839.48 L20.5 841.89 L22.91 840.69 L20.5 839.48" class="st2"/>
+				<path d="M0 840.69 L20.5 840.69" class="st2"/>
+			</g>
+			<g id="shape13-23" v:mID="13" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="831.969" width="39.01" height="7.20349"/>
+				<text x="17.43" y="833.77" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>35kV#1站用变</text>			</g>
+		</g>
+		<g id="shape17-25" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(-478.461,629.291) rotate(-90)">
+			<title>等电势.17</title>
+			<desc>10kV</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents equipotentiality.)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="22.7457" cy="849.677" width="15.58" height="9.20349" transform="rotate(90)"/>
+			<path d="M9.1 841.89 L9.1 823.69 L0 832.79 L9.1 841.89 Z" class="st1"/>
+			<path d="M9.1 841.89 L9.1 823.69 L0 832.79 L9.1 841.89" class="st5"/>
+			<path d="M45.49 832.79 L9.1 832.79" class="st5"/>
+			<text x="843.57" y="-20.95" transform="rotate(90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>10kV</text>		</g>
+		<g id="shape18-30" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-280.63)">
+			<title>动态连接线.18</title>
+			<path d="M7.09 841.89 L7.09 864.43" class="st5"/>
+		</g>
+		<g id="shape37-33" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(402.52,1338.52) rotate(180)">
+			<title>接地.37</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape42-39" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(162.992,-382.677)">
+			<title>传输路径</title>
+			<desc>35kV#2M</desc>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="标签" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052"
+						v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(用于表示电流方向。)"/>
+				<v:ud v:nameU="CH" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.1732" cy="834.803" width="43.91" height="14.0036"/>
+			<path d="M0 841.89 L274.14 841.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-5.64595" y="828.801" width="39.6384" height="12.0001" class="st8"/>
+			<text x="-5.65" y="837.8" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>35kV#2M</text>		</g>
+		<g id="group43-44" transform="translate(371.339,-340.157)" v:mID="43" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器</title>
+			<desc>32927</desc>
+			<g id="shape44-45" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.44</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape45-48" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.45</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape46-52" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.46</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape47-56" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.47</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape43-58" v:mID="43" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.6954" cy="846.142" width="18.57" height="9.20349"/>
+				<text x="7.09" y="847.94" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>32927</text>			</g>
+		</g>
+		<g id="shape60-60" v:mID="60" v:groupContext="shape" transform="translate(1191.51,526.52) rotate(90) scale(-1,1)">
+			<title>工作表.60</title>
+			<desc>329</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.85069" cy="837.176" width="17.71" height="9.42703"/>
+			<rect x="0" y="832.463" width="17.7014" height="9.42703" class="st10"/>
+			<text x="-13.86" y="838.86" transform="scale(-1,1)" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>329</text>		</g>
+		<g id="shape61-63" v:mID="61" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-317.134)">
+			<title>动态连接线.61</title>
+			<path d="M7.09 843.65 L7.09 854.3" class="st5"/>
+		</g>
+		<g id="group62-66" transform="translate(1193.81,468.425) rotate(90)" v:mID="62" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.62</title>
+			<desc>3292</desc>
+			<g id="shape63-67" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(9.6378,-2.40945)">
+				<title>工作表.63</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L4.82 839.48" class="st5"/>
+			</g>
+			<g id="shape64-70" v:mID="64" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.40945)">
+				<title>工作表.64</title>
+				<path d="M14.46 841.89 L24.09 841.89" class="st5"/>
+				<path d="M0 841.89 L9.64 841.89" class="st5"/>
+			</g>
+			<g id="shape65-74" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(13.252,-1.80709)">
+				<title>工作表.65</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0 Z" class="st1"/>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0" class="st5"/>
+				<path d="M1.2 842.19 L1.2 840.38" class="st5"/>
+			</g>
+			<g id="shape66-78" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(9.03543,-1.80709)">
+				<title>工作表.66</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape62-80" v:mID="62" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="12.0472" cy="825.307" width="15.53" height="9.20349" transform="rotate(-90)"/>
+				<text x="-831.39" y="13.85" transform="rotate(-90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>3292</text>			</g>
+		</g>
+		<g id="shape67-82" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-349.37)">
+			<title>动态连接线.67</title>
+			<path d="M7.09 841.89 L7.09 858.19" class="st5"/>
+		</g>
+		<g id="shape68-85" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(371.339,-335.906)">
+			<title>动态连接线.68</title>
+			<path d="M0 834.8 L-17.01 834.8" class="st5"/>
+		</g>
+		<g id="shape69-88" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-370.984)">
+			<title>动态连接线.69</title>
+			<path d="M7.09 839.41 L7.09 830.2" class="st5"/>
+		</g>
+		<g id="shape71-91" v:mID="71" v:groupContext="shape" v:layerMember="0" transform="translate(310.394,-411.024)">
+			<title>接地.71</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.11 L0 840" class="st12"/>
+			<path d="M0.94 837.17 L0.94 840.94" class="st12"/>
+			<path d="M1.89 836.22 L1.89 841.89" class="st12"/>
+			<path d="M14.17 839.06 L1.89 839.06" class="st12"/>
+		</g>
+		<g id="group72-97" transform="translate(311.811,-411.024)" v:mID="72" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.72</title>
+			<desc>302917</desc>
+			<g id="shape73-98" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.73</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape74-101" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.74</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape75-105" v:mID="75" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.75</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape76-109" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.76</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape72-111" v:mID="72" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.6954" cy="846.142" width="21.61" height="9.20349"/>
+				<text x="5.57" y="847.94" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>302917</text>			</g>
+		</g>
+		<g id="group77-113" transform="translate(1193.81,423.78) rotate(90)" v:mID="77" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.77</title>
+			<desc>3029</desc>
+			<g id="shape78-114" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(9.6378,-2.40945)">
+				<title>工作表.78</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L4.82 839.48" class="st5"/>
+			</g>
+			<g id="shape79-117" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.40945)">
+				<title>工作表.79</title>
+				<path d="M14.46 841.89 L24.09 841.89" class="st5"/>
+				<path d="M0 841.89 L9.64 841.89" class="st5"/>
+			</g>
+			<g id="shape80-121" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(13.252,-1.80709)">
+				<title>工作表.80</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0 Z" class="st1"/>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0" class="st5"/>
+				<path d="M1.2 842.19 L1.2 840.38" class="st5"/>
+			</g>
+			<g id="shape81-125" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(9.03543,-1.80709)">
+				<title>工作表.81</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape77-127" v:mID="77" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="12.0472" cy="825.307" width="15.53" height="9.20349" transform="rotate(-90)"/>
+				<text x="-831.39" y="13.85" transform="rotate(-90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>3029</text>			</g>
+		</g>
+		<g id="shape82-129" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(401.102,1288.91) rotate(180)">
+			<title>接地.82</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="group83-135" transform="translate(362.835,-389.764)" v:mID="83" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.83</title>
+			<desc>30297</desc>
+			<g id="shape84-136" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.84</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape85-139" v:mID="85" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.85</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape86-143" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.86</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape87-147" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.87</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape83-149" v:mID="83" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="18.57" height="9.20349"/>
+				<text x="7.14" y="846.81" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>30297</text>			</g>
+		</g>
+		<g id="shape90-151" v:mID="90" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-428.943)">
+			<title>动态连接线.90</title>
+			<path d="M7.09 845.23 L7.09 852.72" class="st5"/>
+		</g>
+		<g id="shape91-154" v:mID="91" v:groupContext="shape" v:layerMember="1" transform="translate(340.157,-406.772)">
+			<title>动态连接线.91</title>
+			<path d="M0 834.8 L14.17 834.8" class="st5"/>
+		</g>
+		<g id="shape92-157" v:mID="92" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-395.433)">
+			<title>动态连接线.92</title>
+			<path d="M7.09 843.31 L7.09 854.65" class="st5"/>
+		</g>
+		<g id="shape93-160" v:mID="93" v:groupContext="shape" v:layerMember="1" transform="translate(365.669,-386.22)">
+			<title>动态连接线.93</title>
+			<path d="M-2.83 835.51 L-11.34 835.51 L-11.34 834.09" class="st5"/>
+		</g>
+		<g id="group96-163" transform="translate(223.937,-485.433)" v:mID="96" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="标签" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052"
+						v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(变压器。)"/>
+			</v:userDefs>
+			<title>变压器 2</title>
+			<desc>2#主变</desc>
+			<g id="shape97-164" v:mID="97" v:groupContext="shape" v:layerMember="0">
+				<title>工作表.97</title>
+				<path d="M0.97 831.26 A7.08661 7.06207 -180 1 0 13.2 831.26 A7.0847 7.06016 -180 1 0 0.97 831.26 Z" class="st3"/>
+			</g>
+			<g id="shape98-166" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(0.929742,-7.09041)">
+				<title>工作表.98</title>
+				<path d="M0 838.35 A7.10934 7.08472 -180 0 0 12.31 838.35 A7.10934 7.08472 -180 0 0 0 838.35 Z" class="st3"/>
+			</g>
+			<g id="shape96-168" v:mID="96" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="-18.4252" cy="834.094" width="21.13" height="7.20349"/>
+				<text x="-27.47" y="835.89" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>2#主变</text>			</g>
+		</g>
+		<g id="shape99-170" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(315.213,1174.56) rotate(180)">
+			<title>等电势.99</title>
+			<desc>至220kV</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents equipotentiality.)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="32.8819" cy="846.885" width="24.62" height="9.99088" transform="rotate(180)"/>
+			<path d="M13.15 841.89 L13.15 815.58 L0 828.74 L13.15 841.89 Z" class="st1"/>
+			<path d="M13.15 841.89 L13.15 815.58 L0 828.74 L13.15 841.89" class="st5"/>
+			<path d="M65.76 828.74 L13.15 828.74" class="st5"/>
+			<text x="-43.51" y="-844.89" transform="rotate(180)" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>至<tspan
+						class="st14">220</tspan><tspan class="st14">kV</tspan></text>		</g>
+		<g id="shape100-177" v:mID="100" v:groupContext="shape" v:layerMember="1" transform="translate(236.227,-488.976)">
+			<title>动态连接线.100</title>
+			<path d="M0.95 834.8 L13.22 834.8" class="st5"/>
+		</g>
+		<g id="shape101-180" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(1072.88,274.961) rotate(90)">
+			<title>传输路径.101</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="标签" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052"
+						v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(用于表示电流方向。)"/>
+			</v:userDefs>
+			<path d="M0 841.89 L42.52 841.89" class="st5"/>
+		</g>
+		<g id="shape102-183" v:mID="102" v:groupContext="shape" v:layerMember="1" transform="translate(238.093,-506.693)">
+			<title>动态连接线.102</title>
+			<path d="M-7.07 841.89 L-7.07 813.54 L-7.1 813.54" class="st5"/>
+		</g>
+		<g id="group103-186" transform="translate(1070.5,377.717) rotate(90)" v:mID="103" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.103</title>
+			<desc>3026</desc>
+			<g id="shape104-187" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(9.6378,-2.40945)">
+				<title>工作表.104</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L4.82 839.48" class="st5"/>
+			</g>
+			<g id="shape105-190" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.40945)">
+				<title>工作表.105</title>
+				<path d="M14.46 841.89 L24.09 841.89" class="st5"/>
+				<path d="M0 841.89 L9.64 841.89" class="st5"/>
+			</g>
+			<g id="shape106-194" v:mID="106" v:groupContext="shape" v:layerMember="0" transform="translate(13.252,-1.80709)">
+				<title>工作表.106</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0 Z" class="st1"/>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0" class="st5"/>
+				<path d="M1.2 842.19 L1.2 840.38" class="st5"/>
+			</g>
+			<g id="shape107-198" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(9.03543,-1.80709)">
+				<title>工作表.107</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape103-200" v:mID="103" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="12.0472" cy="825.307" width="15.53" height="9.20349" transform="rotate(-90)"/>
+				<text x="-831.39" y="13.85" transform="rotate(-90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>3026</text>			</g>
+		</g>
+		<g id="group108-202" transform="translate(249.449,-474.449)" v:mID="108" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.108</title>
+			<desc>302617</desc>
+			<g id="shape109-203" v:mID="109" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.109</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape110-206" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.110</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape111-210" v:mID="111" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.111</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape112-214" v:mID="112" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.112</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape108-216" v:mID="108" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="21.61" height="9.20349"/>
+				<text x="5.62" y="846.81" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>302617</text>			</g>
+		</g>
+		<g id="shape114-218" v:mID="114" v:groupContext="shape" v:layerMember="1" transform="translate(223.937,-485.433)">
+			<title>动态连接线.114</title>
+			<path d="M7.09 841.89 L7.09 863.15" class="st5"/>
+		</g>
+		<g id="shape115-221" v:mID="115" v:groupContext="shape" v:layerMember="1" transform="translate(249.449,-470.374)">
+			<title>动态连接线.115</title>
+			<path d="M0 834.98 L-19.84 834.98 L-19.84 834.63" class="st5"/>
+		</g>
+		<g id="shape117-224" v:mID="117" v:groupContext="shape" v:layerMember="0"
+				transform="translate(287.717,1204.23) rotate(180)">
+			<title>接地.117</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape118-230" v:mID="118" v:groupContext="shape" transform="translate(1068.2,430.866) rotate(90) scale(-1,1)">
+			<title>工作表.118</title>
+			<desc>302</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.85069" cy="837.176" width="17.71" height="9.42703"/>
+			<rect x="0" y="832.463" width="17.7014" height="9.42703" class="st10"/>
+			<text x="-13.86" y="838.86" transform="scale(-1,1)" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>302</text>		</g>
+		<g id="shape119-233" v:mID="119" v:groupContext="shape" v:layerMember="1" transform="translate(223.937,-441.488)">
+			<title>动态连接线.119</title>
+			<path d="M7.09 843.3 L7.09 854.65" class="st5"/>
+		</g>
+		<g id="shape120-236" v:mID="120" v:groupContext="shape" v:layerMember="1" transform="translate(224.441,-411.024)">
+			<title>动态连接线.120</title>
+			<path d="M7.09 841.89 L7.09 870.24" class="st5"/>
+		</g>
+		<g id="group121-239" transform="translate(245.197,-433.701)" v:mID="121" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.121</title>
+			<desc>30267</desc>
+			<g id="shape122-240" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.122</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape123-243" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.123</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape124-247" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.124</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape125-251" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.125</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape121-253" v:mID="121" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="18.57" height="9.20349"/>
+				<text x="7.14" y="846.81" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>30267</text>			</g>
+		</g>
+		<g id="shape126-255" v:mID="126" v:groupContext="shape" v:layerMember="0"
+				transform="translate(283.465,1244.98) rotate(180)">
+			<title>接地.126</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape127-261" v:mID="127" v:groupContext="shape" v:layerMember="1" transform="translate(245.197,-431.22)">
+			<title>动态连接线.127</title>
+			<path d="M0 836.57 L-14.17 836.57 L-14.17 833.03" class="st5"/>
+		</g>
+		<g id="group128-264" transform="translate(-547.281,490.394) rotate(-90)" v:mID="128" v:groupContext="group"
+				v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.128</title>
+			<desc>3252</desc>
+			<g id="shape129-265" v:mID="129" v:groupContext="shape" v:layerMember="0" transform="translate(9.6378,-2.40945)">
+				<title>工作表.129</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L4.82 839.48" class="st5"/>
+			</g>
+			<g id="shape130-268" v:mID="130" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.40945)">
+				<title>工作表.130</title>
+				<path d="M14.46 841.89 L24.09 841.89" class="st5"/>
+				<path d="M0 841.89 L9.64 841.89" class="st5"/>
+			</g>
+			<g id="shape131-272" v:mID="131" v:groupContext="shape" v:layerMember="0" transform="translate(13.252,-1.80709)">
+				<title>工作表.131</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0 Z" class="st1"/>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0" class="st5"/>
+				<path d="M1.2 842.19 L1.2 840.38" class="st5"/>
+			</g>
+			<g id="shape132-276" v:mID="132" v:groupContext="shape" v:layerMember="0" transform="translate(9.03543,-1.80709)">
+				<title>工作表.132</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape128-278" v:mID="128" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="12.0472" cy="825.307" width="15.53" height="9.20349" transform="rotate(90)"/>
+				<text x="819.23" y="-10.25" transform="rotate(90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>3252</text>			</g>
+		</g>
+		<g id="group133-280" transform="translate(278.257,1383.31) rotate(180)" v:mID="133" v:groupContext="group"
+				v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.133</title>
+			<desc>325207</desc>
+			<g id="shape134-281" v:mID="134" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.134</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape135-284" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.135</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape136-288" v:mID="136" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.136</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape137-292" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.137</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape133-294" v:mID="133" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="21.61" height="9.20349" transform="rotate(180)"/>
+				<text x="-23.86" y="-843.21" transform="rotate(180)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>325207</text>			</g>
+		</g>
+		<g id="shape138-296" v:mID="138" v:groupContext="shape" v:layerMember="0" transform="translate(239.989,-295.37)">
+			<title>接地.138</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape139-302" v:mID="139" v:groupContext="shape" transform="translate(-544.977,495.531) rotate(-90) scale(-1,1)">
+			<title>工作表.139</title>
+			<desc>325</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.85069" cy="837.176" width="17.71" height="9.42703"/>
+			<rect x="0" y="832.463" width="17.7014" height="9.42703" class="st10"/>
+			<text x="-13.86" y="838.86" transform="scale(-1,1)" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>325</text>		</g>
+		<g id="group140-305" transform="translate(278.026,1360.1) rotate(180)" v:mID="140" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.140</title>
+			<desc>32527</desc>
+			<g id="shape141-306" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.141</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape142-309" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.142</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape143-313" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.143</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape144-317" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.144</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape140-319" v:mID="140" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="18.57" height="9.20349" transform="rotate(180)"/>
+				<text x="-22.34" y="-843.21" transform="rotate(180)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>32527</text>			</g>
+		</g>
+		<g id="shape145-321" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(239.758,-318.579)">
+			<title>接地.145</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="group146-327" transform="translate(-617.422,490.394) rotate(-90)" v:mID="146" v:groupContext="group"
+				v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.146</title>
+			<desc>3232</desc>
+			<g id="shape147-328" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(9.6378,-2.40945)">
+				<title>工作表.147</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L4.82 839.48" class="st5"/>
+			</g>
+			<g id="shape148-331" v:mID="148" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.40945)">
+				<title>工作表.148</title>
+				<path d="M14.46 841.89 L24.09 841.89" class="st5"/>
+				<path d="M0 841.89 L9.64 841.89" class="st5"/>
+			</g>
+			<g id="shape149-335" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(13.252,-1.80709)">
+				<title>工作表.149</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0 Z" class="st1"/>
+				<path d="M0 841.29 a0.602362 0.602362 -180 0 0 1.20472 0 a0.602362 0.602362 -180 0 0 -1.20472 0" class="st5"/>
+				<path d="M1.2 842.19 L1.2 840.38" class="st5"/>
+			</g>
+			<g id="shape150-339" v:mID="150" v:groupContext="shape" v:layerMember="0" transform="translate(9.03543,-1.80709)">
+				<title>工作表.150</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape146-341" v:mID="146" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="12.0472" cy="825.307" width="15.53" height="9.20349" transform="rotate(90)"/>
+				<text x="819.23" y="-10.25" transform="rotate(90)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>3232</text>			</g>
+		</g>
+		<g id="group151-343" transform="translate(208.346,1383.31) rotate(180)" v:mID="151" v:groupContext="group"
+				v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.151</title>
+			<desc>323207</desc>
+			<g id="shape152-344" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.152</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape153-347" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.153</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape154-351" v:mID="154" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.154</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape155-355" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.155</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape151-357" v:mID="151" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="21.61" height="9.20349" transform="rotate(180)"/>
+				<text x="-23.86" y="-843.21" transform="rotate(180)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>323207</text>			</g>
+		</g>
+		<g id="shape156-359" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(170.079,-295.37)">
+			<title>接地.156</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape157-365" v:mID="157" v:groupContext="shape" transform="translate(-615.118,496.417) rotate(-90) scale(-1,1)">
+			<title>工作表.157</title>
+			<desc>323</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.85069" cy="837.176" width="17.71" height="9.42703"/>
+			<rect x="0" y="832.463" width="17.7014" height="9.42703" class="st10"/>
+			<text x="-13.86" y="838.86" transform="scale(-1,1)" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>323</text>		</g>
+		<g id="group158-368" transform="translate(207.885,1360.98) rotate(180)" v:mID="158" v:groupContext="group"
+				v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="开关类型" v:type="1" v:format="闭合触点;断路器触点;符号 3;符号 4" v:langID="2052" v:val="VT4(闭合触点)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(开关断电器(隔离开关)。)"/>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>开关断电器.158</title>
+			<desc>32327</desc>
+			<g id="shape159-369" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(11.3386,-2.83465)">
+				<title>工作表.159</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.89 L5.67 839.06" class="st5"/>
+			</g>
+			<g id="shape160-372" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(0,-2.83465)">
+				<title>工作表.160</title>
+				<path d="M17.01 841.89 L28.35 841.89" class="st5"/>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape161-376" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(15.5906,-2.12598)">
+				<title>工作表.161</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0 Z" class="st1"/>
+				<path d="M0 841.18 a0.708661 0.708661 -180 0 0 1.41732 0 a0.708661 0.708661 -180 0 0 -1.41732 0" class="st5"/>
+				<path d="M1.42 842.24 L1.42 840.12" class="st5"/>
+			</g>
+			<g id="shape162-380" v:mID="162" v:groupContext="shape" v:layerMember="0" transform="translate(10.6299,-2.12598)">
+				<title>工作表.162</title>
+				<v:userDefs>
+					<v:ud v:nameU="Sym" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape158-382" v:mID="158" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="14.7402" cy="845.008" width="18.57" height="9.20349" transform="rotate(180)"/>
+				<text x="-22.34" y="-843.21" transform="rotate(180)" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>32327</text>			</g>
+		</g>
+		<g id="shape163-384" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(169.617,-317.693)">
+			<title>接地.163</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Represents a ground connection.)"/>
+			</v:userDefs>
+			<path d="M0 838.87 L0 840.38" class="st5"/>
+			<path d="M0.76 838.11 L0.76 841.13" class="st5"/>
+			<path d="M1.51 837.35 L1.51 841.89" class="st5"/>
+			<path d="M11.34 839.62 L1.51 839.62" class="st5"/>
+		</g>
+		<g id="shape164-390" v:mID="164" v:groupContext="shape" v:layerMember="1" transform="translate(228.95,-372.047)">
+			<title>动态连接线</title>
+			<path d="M-6.89 838.35 L-6.89 831.26 L-7.28 831.26" class="st5"/>
+		</g>
+		<g id="shape165-393" v:mID="165" v:groupContext="shape" v:layerMember="1" transform="translate(298.462,-372.047)">
+			<title>动态连接线.165</title>
+			<path d="M-6.26 838.35 L-6.26 831.26 L-7.91 831.26" class="st5"/>
+		</g>
+		<g id="shape166-396" v:mID="166" v:groupContext="shape" v:layerMember="1" transform="translate(299.286,-356.014)">
+			<title>动态连接线.166</title>
+			<path d="M-7.09 846.41 L-7.09 851.55" class="st5"/>
+		</g>
+		<g id="shape167-399" v:mID="167" v:groupContext="shape" v:layerMember="1" transform="translate(214.972,-355.571)">
+			<title>动态连接线.167</title>
+			<path d="M7.09 845.96 L7.09 851.99" class="st5"/>
+		</g>
+		<g id="group168-402" transform="translate(1058.28,551.339) rotate(90)" v:mID="168" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(继电器触点)"/>
+			</v:userDefs>
+			<title>继电器触点</title>
+			<g id="shape169-403" v:mID="169" v:groupContext="shape" v:layerMember="0" transform="translate(0,-5.66929)">
+				<title>工作表.169</title>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape170-406" v:mID="170" v:groupContext="shape" v:layerMember="0"
+					transform="translate(28.3465,1678.11) rotate(180)">
+				<title>工作表.170</title>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape171-409" v:mID="171" v:groupContext="shape" v:layerMember="0" transform="translate(5.66929,0)">
+				<title>工作表.171</title>
+				<path d="M11.34 830.55 L11.34 841.89" class="st5"/>
+				<path d="M5.67 830.55 L5.67 841.89" class="st5"/>
+			</g>
+		</g>
+		<g id="group172-413" transform="translate(1129.38,552.189) rotate(90)" v:mID="172" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(继电器触点)"/>
+			</v:userDefs>
+			<title>继电器触点.172</title>
+			<g id="shape173-414" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(0,-5.66929)">
+				<title>工作表.173</title>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape174-417" v:mID="174" v:groupContext="shape" v:layerMember="0"
+					transform="translate(28.3465,1678.11) rotate(180)">
+				<title>工作表.174</title>
+				<path d="M0 841.89 L11.34 841.89" class="st5"/>
+			</g>
+			<g id="shape175-420" v:mID="175" v:groupContext="shape" v:layerMember="0" transform="translate(5.66929,0)">
+				<title>工作表.175</title>
+				<path d="M11.34 830.55 L11.34 841.89" class="st5"/>
+				<path d="M5.67 830.55 L5.67 841.89" class="st5"/>
+			</g>
+		</g>
+		<g id="shape176-424" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(214.972,-327.771)">
+			<title>动态连接线.176</title>
+			<path d="M7.09 841.89 L7.09 879.11" class="st5"/>
+		</g>
+		<g id="shape177-427" v:mID="177" v:groupContext="shape" v:layerMember="1" transform="translate(286.068,-328.657)">
+			<title>动态连接线.177</title>
+			<path d="M7.09 841.89 L7.09 880.85" class="st5"/>
+		</g>
+		<g id="shape178-430" v:mID="178" v:groupContext="shape" v:layerMember="1" transform="translate(207.69,-326.516)">
+			<title>动态连接线.178</title>
+			<path d="M0.19 848.44 L13.98 848.44 L13.98 849.51" class="st5"/>
+		</g>
+		<g id="shape179-433" v:mID="179" v:groupContext="shape" v:layerMember="1" transform="translate(208.346,-290.551)">
+			<title>动态连接线.179</title>
+			<path d="M0 834.8 L14.17 834.8" class="st5"/>
+		</g>
+		<g id="shape180-436" v:mID="180" v:groupContext="shape" v:layerMember="1" transform="translate(278.257,-290.551)">
+			<title>动态连接线.180</title>
+			<path d="M0 834.8 L16.3 834.8" class="st5"/>
+		</g>
+		<g id="shape181-439" v:mID="181" v:groupContext="shape" v:layerMember="1" transform="translate(278.026,-326.959)">
+			<title>动态连接线.181</title>
+			<path d="M0 848 L16.53 848 L16.53 849.95" class="st5"/>
+		</g>
+		<g id="shape182-442" v:mID="182" v:groupContext="shape" transform="translate(43.6678,-153.071)">
+			<title>工作表.182</title>
+			<desc>变电站东方换流站</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="83.048" cy="829.843" width="166.1" height="24.0945"/>
+			<rect x="0" y="817.795" width="166.096" height="24.0945" class="st15"/>
+			<text x="2.05" y="836.77" class="st16" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>变电站：东方换流站</text>		</g>
+		<g id="shape183-445" v:mID="183" v:groupContext="shape" transform="translate(30.3378,-119.055)">
+			<title>工作表.183</title>
+			<desc>电压等级800kV</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="83.048" cy="829.843" width="166.1" height="24.0945"/>
+			<rect x="0" y="817.795" width="166.096" height="24.0945" class="st15"/>
+			<text x="15.17" y="836.77" class="st16" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>电压等级：<tspan
+						class="st14">800</tspan><tspan class="st14">kV</tspan></text>		</g>
+	</g>
+</svg>
