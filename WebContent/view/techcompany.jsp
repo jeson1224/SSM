@@ -1,5 +1,5 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
@@ -62,7 +62,6 @@
 	</div>
 	</header>
 	<!--/#header-->
-
 			<!-- 幻灯片ppt -->
 			<section id="main-slider" class="carousel">
 			<div class="carousel-inner">
@@ -399,8 +398,7 @@
 				</div>
 			</div>
 			</footer>
-			<!--/#footer-->
-			
+			<!--/#footer-->	
 </body>
 </html>
 
